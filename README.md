@@ -1,5 +1,5 @@
-**# DAoA-Assignment-4
-# Part-A  Coin-Change Problem 
+# DAoA-Assignment-4
+## Part-A  Coin-Change Problem 
 # Problem Description:
 The Coin-Change problem involves finding the minimum number of coins required to make up a given sum of money using a given set of coin denominations. The denominations are specified as an array, and the goal is to minimize the number of coins needed to make up the desired sum. If it's not possible to make the exact sum with the given denominations, the algorithm should return -1.
 # Solutions:
@@ -24,3 +24,4 @@ The dynamic programming approach for the Coin-Change problem involves building a
         ◦ Space Complexity: The space complexity is O(sum) due to the dynamic programming table, which stores the minimum number of coins needed for each sum.
 In general, the greedy approach is faster but may not always provide an optimal solution. The dynamic programming approach guarantees an optimal solution but may require more time and space, especially for large target sums. The choice between the two approaches depends on the specific requirements and constraints of the problem at hand.
 **
+**************************
