@@ -1,5 +1,5 @@
 # DAoA-Assignment-4
-##                                          Part-A  Coin-Change Problem 
+#Part-A  Coin-Change Problem 
 ## Problem Description:
 The Coin-Change problem involves finding the minimum number of coins required to make up a given sum of money using a given set of coin denominations. The denominations are specified as an array, and the goal is to minimize the number of coins needed to make up the desired sum. If it's not possible to make the exact sum with the given denominations, the algorithm should return -1.
 ## Solutions:
