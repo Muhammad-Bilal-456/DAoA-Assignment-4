@@ -1,0 +1,5 @@
+PakRupees PKR
+3
+rupees 5
+rupees 20
+rupees 100
